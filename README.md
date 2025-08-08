@@ -49,6 +49,9 @@ Edit
 📁 Healthcare-Analytics-Dashboard
 │
 ├── 📄 README.md              # Project documentation
+
 ├── 📄 Healthcare_Dashboard.pbix   # Power BI dashboard file
+
 ├── 📄 healthcare_dataset.csv  # Dataset used for the dashboard
+
 └── 📄 dashboard_screenshot.png # Dashboard preview image
