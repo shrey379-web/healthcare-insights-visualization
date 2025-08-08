@@ -43,10 +43,6 @@ Lifestyle habits such as smoking prevalence linked to increased risk factors.
 (Add a screenshot here after uploading your dashboard image to the repo)
 
 📂 Project Structure
-bash
-Copy
-Edit
-
 📁 Healthcare-Analytics-Dashboard
 │
 
